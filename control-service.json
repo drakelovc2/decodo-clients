@@ -1,0 +1,13 @@
+{
+  "_комментарий": "Самоописание сервиса для общего пульта (bridges2api/control). Порт 9941.",
+  "id": "decodo-register",
+  "name": "Decodo (free DC proxies)",
+  "group": "Авторег",
+  "kind": "autoreg",
+  "start": "bash start.sh",
+  "port": 9941,
+  "panel": "http://127.0.0.1:9941",
+  "proxy": "optional",
+  "log": "panel.log",
+  "note": "Авторег Decodo: email+пароль (Camoufox проходит CF/Akamai, reCAPTCHA v3 invisible) → письмо apimail → activate free DC → proxy-креды dc.decodo.com:10000. 1 GB/мес на аккаунт."
+}
