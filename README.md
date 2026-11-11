@@ -116,3 +116,9 @@ data/              банк, логи (в git не идут)
 
 Только свои аккаунты/сервисы или письменное разрешение владельца. Массовая
 регистрация может нарушать ToS Decodo.
+
+---
+
+🔥 Telegram: [@antivibedrake](https://t.me/antivibedrake) · [@zakurulife](https://t.me/zakurulife)
+
+Только для личного использования — см. [DISCLAIMER.md](DISCLAIMER.md).
